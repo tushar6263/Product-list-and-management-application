@@ -16,23 +16,7 @@ A full-stack web application designed to streamline product listing and manageme
 - **Database**: MongoDB
 - **Version Control**: Git & GitHub
 
-## 📁 Project Structure
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-├── frontend/
-│ ├── index.html
-│ ├── styles.css
-│ └── app.js
-└── README.md
-
-- **backend/**: Contains server-side code, including API routes and database models.
-- **frontend/**: Contains client-side code, including HTML, CSS, and JavaScript files.
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository**:
+ **Clone the repository**:
 
    ```bash
    git clone https://github.com/tushar6263/Product-list-and-management-application.git
